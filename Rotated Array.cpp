@@ -15,4 +15,5 @@ int main(){
   	vector<int> nums = {3, 4, 5, 1, 2};
   	int k = 2;
 	rotate(nums, k);
+	// Macebook
 }
